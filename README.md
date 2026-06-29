@@ -1,0 +1,2 @@
+# d3d675ca8b90d458-church-ministry-customer-suppo
+church ministry professionals waste hours on switching between tabs and losing context. This fixes that.  Works directly in Chrome, Edge, and Brave — no switching apps required. Privacy-first: all processing stays local, no data sent to third-party servers.  ## What's Included  - Church Ministry Customer Support Ticketing — fully configured and rea
